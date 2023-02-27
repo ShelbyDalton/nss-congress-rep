@@ -11,23 +11,12 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    /* align-items: center; */
-    /* align-content: center; */
-    /* justify-content: flex-start; */
-    /* display: flex; */
 }
 
 .shop {
     
     flex-basis: 30%;
-    /* flex-wrap: wrap; */
     border: 2px dotted rgb(209, 81, 209);
     padding: 0.25em;
-    /* width: 100; */
-    /* margin: 0em; */
-    /* display: flex; */
-    /* flex-wrap: wrap; */
-    /* text-align: left; */
-    /* justify-content: space-evenly;  */
-    /* flex-flow: column wrap; */
 }
+
